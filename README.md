@@ -1,1 +1,2 @@
 # odin-recipes
+This is a short description of this project. This is my first project in TOP and I'm super excited to get started and learn to code. I'm sure it will take forever but having this skill will eventually help me out in some way. So here's to improving
